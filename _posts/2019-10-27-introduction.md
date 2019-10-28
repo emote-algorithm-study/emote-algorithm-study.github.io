@@ -1,3 +1,11 @@
+---
+published : true
+layout : "posts"
+title : "Algorithm Study day 1"
+
+---
+
+
 # Algorithm Study Week1
 - 일자 : 2019년 10월 7일 월요일
 - Member : 이세호, 김범철, 이지연, 이지혜
