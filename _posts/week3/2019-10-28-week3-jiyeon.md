@@ -2,13 +2,13 @@
 layout : posts
 author : Jiyeon Lee
 published : true
-title : "[지연] 동적 계획법"
+title : "[지연/week3] 동적 계획법"
 ---
 
 
 > 동적 계획법 - Dynamic Programming ; DP
 
-## 중복된 계산을 피하는 방법
+## 중복된 계산을 피하는 방법ㄷ
 
 ### 1. 메모이제이션 (Memoization) : Top-down 방식
 계속 중복되는 계산을 제거하기 위한 테크닉. 계산된 값을 버리지 말고 저장한다는 뜻이다. 이렇게 저장되는 배열을 '캐시'라고 하며, 중간에 저장하는걸 '캐싱한다'라고 부른다.
