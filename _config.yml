@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "EMOTE Algorithm Study"
+title                    : #"EMOTE Algorithm Study"
 title_separator          : #"???"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "EMOTE"
-description              : "알고리즘 스터디 정리한 사이트입니다."
+name                     : #"EMOTE"
+description              : #"알고리즘 스터디 정리한 사이트입니다."
 url                      : "https://emote-algorithm-study.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/assets/images/logo.jpg"
+logo                     : "/assets/images/DSCYonseiLogox3.png" #"/assets/images/logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "EMOTE"
+  name             : "DSC Yonsei"
   avatar           : "/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "EMOTE Algorithm Study"
+  bio              : "DSC Yonsei Algorithm Study Group Page"
   location         : "Republic of Korea"
   email            :
   links:
@@ -124,7 +124,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/DSCYonsei/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emote-algorithm-study"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/DSCYonsei/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emote-algorithm-study"

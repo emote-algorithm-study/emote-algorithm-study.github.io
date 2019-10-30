@@ -3,7 +3,7 @@ published : true
 layout : posts
 author_profile : true
 author : Jiyeon Lee
-title : "[지연] 분할 정복과 병합정렬, 퀵정렬"
+title : "[지연/week2] 분할 정복과 병합정렬, 퀵정렬"
 ---
 
 

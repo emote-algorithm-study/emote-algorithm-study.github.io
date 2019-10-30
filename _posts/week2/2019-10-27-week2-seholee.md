@@ -1,7 +1,7 @@
 ---
 layout : posts
 author : Seho Lee
-title : "[세호] 분할정복과 퀵정렬, 병합정렬"
+title : "[세호/week2] 분할정복과 퀵정렬, 병합정렬"
 
 ---
 

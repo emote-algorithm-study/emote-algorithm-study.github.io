@@ -2,7 +2,7 @@
 published : true
 layout : posts
 author : Jihye Lee
-title : "[지혜] 분할정복과 퀵정렬, 병합정렬"
+title : "[지혜/week2] 분할정복과 퀵정렬, 병합정렬"
 ---
 
 ## 분할 정복 이란?
