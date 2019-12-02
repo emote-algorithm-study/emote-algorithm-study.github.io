@@ -51,7 +51,7 @@ Bumcheol Kim:
 Seho Lee:
   name        : "Seho Lee"
   bio         : "세호세호"
-  avatar      : "/assets/images/leeseho.jpg"
+  avatar      : "/assets/images/leeseho.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
